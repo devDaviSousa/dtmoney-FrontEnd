@@ -6,6 +6,7 @@ export const GlobalStyle = createGlobalStyle`
 
   --red:#e52e4d;
   --blue:#5429cc;
+  --green:#33cc95;
 
   --blue-ligth:#6936ff;
 
@@ -37,7 +38,7 @@ html{
 }
 
 body{
-  background: var(---background);
+  background: #f0f2f5;
   --webkit-font-smoothing: antialiased;
 }
 
